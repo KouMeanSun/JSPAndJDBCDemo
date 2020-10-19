@@ -1,0 +1,9 @@
+*.iml
+
+.gradle
+
+jkxystudeng/.idea/
+
+jkxystudeng/classes/artifacts/
+
+jkxystudeng/build/
